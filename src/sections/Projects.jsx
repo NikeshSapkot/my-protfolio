@@ -71,11 +71,11 @@ const Projects = () => {
       liveLink: "https://carbon-footprint-visualizer.netlify.app/",
     },
     {
-      title: "Weather Dashboard",
-      description: "Real-time weather information with 7-day forecasts and location search",
+      title: "News App Blog",
+      description: "A modern React-powered news blog that displays trending articles with detailed views, smooth scrolling, and clean design—deployed on Netlify",
       tags: ["JavaScript", "API", "CSS Grid"],
-      githubLink: "https://github.com/yourusername/project3",
-      liveLink: "https://project3.com",
+      githubLink: "https://github.com/NikeshSapkot/blog-app",
+      liveLink: "https://techpluse.netlify.app/",
     },
     {
       title: "Fitness Tracker",
