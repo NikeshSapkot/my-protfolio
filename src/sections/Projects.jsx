@@ -64,11 +64,11 @@ const Projects = () => {
       
     },
     {
-      title: "Task Management App",
-      description: "A productivity app with drag-and-drop interface and team collaboration",
+      title: "Carbon FootPrint Visualizer",
+      description: "An Web App which helps you to check your carbo footprint  ",
       tags: ["Vue.js", "Firebase", "Tailwind CSS"],
-      githubLink: "https://github.com/yourusername/project2",
-      liveLink: "https://project2.com",
+      githubLink: "https://github.com/NikeshSapkot/eco-footprint",
+      liveLink: "https://carbon-footprint-visualizer.netlify.app/",
     },
     {
       title: "Weather Dashboard",
