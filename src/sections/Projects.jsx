@@ -78,11 +78,11 @@ const Projects = () => {
       liveLink: "https://techpluse.netlify.app/",
     },
     {
-      title: "Fitness Tracker",
-      description: "Mobile app for tracking workouts, nutrition, and progress",
-      tags: ["React Native", "Redux", "GraphQL"],
-      githubLink: "https://github.com/yourusername/project4",
-      liveLink: "https://project4.com",
+      title: "Sikshya",
+      description: "An immersive learning experience with interactive courses, 3D visualizations, and live coding playground.",
+      tags: ["React",],
+      githubLink: "https://github.com/NikeshSapkot/Sikshya",
+      liveLink: "https://sikshyac.netlify.app/",
     },
   ];
 
